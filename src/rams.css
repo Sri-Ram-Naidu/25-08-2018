@@ -1,0 +1,8 @@
+.ram,.sriram,.sriramnaidu,.Bannu{
+  background-image: url(images.jpg);
+  margin : 50px;
+  border : 2px solid blue;
+  border-shadow : 0 5px 5px blue;
+  padding : 50px;
+  width : 150px;
+}
